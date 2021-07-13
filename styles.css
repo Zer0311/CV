@@ -15,6 +15,8 @@ hr{
 }
 img{
 filter:contrast(110%) grayscale(20%)saturate(120%);
+height: auto;
+max-width: 80%;
 border-radius: 50%;
 }
 
