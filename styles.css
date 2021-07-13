@@ -16,8 +16,8 @@ hr{
 img{
 filter:contrast(110%) grayscale(20%)saturate(120%);
 border-radius: 50%;
-max-width: 20%;
-max-height: 20%;
+max-width: 60%;
+max-height: 60%;
 }
 
 h1{
