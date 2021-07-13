@@ -15,11 +15,9 @@ hr{
 }
 img{
 filter:contrast(110%) grayscale(20%)saturate(120%);
-height: auto;
-width: auto;
-max-width: 80%;
-max-height:80%;
 border-radius: 50%;
+max-width: 20%;
+max-height: 20%;
 }
 
 h1{
